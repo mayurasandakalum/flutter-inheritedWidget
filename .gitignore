@@ -1,0 +1,125 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.idea/
+.vscode/
+*.iml
+
+# Gradle files
+**/build/
+**/captures/
+.gradle/
+local.properties
+
+# Android Gradle Plugin (AGP) specific
+**/android/app/src/debug/
+**/android/app/src/profile/
+**/android/app/src/main/flutter_assets/
+**/android/app/src/main/flutter_build/
+**/android/app/src/main/prebuilt.*
+**/android/app/src/main/asset/flutter_assets/
+**/android/app/src/main/asset/flutter_build/
+**/android/app/src/main/.dart_tool/
+**/android/app/src/main/kotlin/io/flutter/plugins/GeneratedPluginRegistrant.*
+**/android/build/
+**/android/Flutter/build/
+**/android/Flutter/installArchives*
+**/android/gradle/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/outputs/
+**/android/.gradle/
+**/android/.idea/
+**/android/gradle.xml
+**/android/.DS_Store
+**/android/gradle.properties
+**/android/gradle-local.properties
+**/android/captures/
+
+# Flutter IntelliJ Plugin-specific
+**/*.iml
+**/*.ipr
+**/*.iws
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.idea/
+**/.vscode/
+**/.metadata
+
+# Flutter Redux
+**/lib/generated/
+
+# Flutter Flow
+**/*.swp
+**/.flowspec
+**/.flowconfig
+
+# Flutter localization
+**/l10n/*.arb
+**/l10n/*.dart
+
+# Dart
+.dart_tool/
+.packages
+.pub/
+.build/
+
+# Visual Studio Code
+**/.vscode/
+.vscode/
+*.code-workspace
+
+# Flutter Web
+**/web/flutter_service_worker.js
+**/web/favicon.png
+**/web/main.dart.js.map
+**/web/assets/
+
+# Flutter Desktop
+**/macos/Flutter/Flutter.podspec
+**/macos/Flutter/Flutter-Debug.xcconfig
+**/macos/Flutter/Flutter-Release.xcconfig
+**/macos/Flutter/Flutter.qrc
+**/macos/Flutter/AppFrameworkInfo.plist
+**/macos/Flutter/Generated.xcconfig
+**/macos/Flutter/App.framework/
+**/macos/Flutter/Flutter.framework/
+**/macos/Flutter/flutter_assets/
+**/macos/Flutter/flutter_export_environment.sh
+**/macos/Flutter/Generated.xcconfig
+**/macos/Flutter/flutter_assets/
+**/macos/Flutter/Flutter.podspec
+**/macos/Flutter/Flutter.podspec.lock
+**/macos/Flutter/flutter_export_environment.sh
+**/macos/Flutter/Generated.xcconfig
+**/macos/Flutter/flutter_assets/
+**/macos/Flutter/flutter_podspec.lock
+**/macos/Flutter/flutter_export_environment.sh
+**/macos/Flutter/Flutter.podspec
+**/macos/Flutter/Flutter.podspec.lock
+**/macos/Flutter/Generated.xcconfig
+**/macos/Flutter/flutter_assets/
+**/windows/Flutter/flutter_assets/
+**/windows/Flutter/Flutter.podspec
+**/windows/Flutter/Flutter.podspec.lock
+**/windows/Flutter/flutter_assets/
+**/windows/Flutter/flutter_podspec.lock
+**/linux/flutter_assets/
+**/linux/Flutter/Flutter.podspec
+**/linux/Flutter/Flutter.podspec.lock
+**/linux/Flutter/flutter_assets/
+**/linux/Flutter/flutter_podspec.lock
+**/linux/flutter_export_environment.sh
+**/linux/Flutter/Generated.xcconfig
+**/linux/Flutter/flutter_assets/
+**/linux/Flutter/flutter_podspec.lock
+**/web/flutter_service_worker.js
+**/web/favicon.png
+**/web/main.dart.js.map
+**/web/assets/
+**/windows/flutter_export_environment.bat
